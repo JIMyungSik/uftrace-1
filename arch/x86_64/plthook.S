@@ -1,3 +1,4 @@
+
 .globl plt_hooker
 plt_hooker:
 	.cfi_startproc
